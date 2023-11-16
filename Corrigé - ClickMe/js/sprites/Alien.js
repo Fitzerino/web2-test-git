@@ -10,6 +10,7 @@ class Alien {
         }
 
         this.move();
+        InputDeviceInfo()
     }
 
     move() {
